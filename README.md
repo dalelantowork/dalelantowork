@@ -16,6 +16,9 @@
 <a href="https://www.linkedin.com/in/dale-nardeen-lanto/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+<a href="https://dalelanto.hashnode.dev/">
+  <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727259960171/593f9275-b264-4fe4-b67e-72abf97d5d2c.png?auto=compress,format&format=webp&fm=png"/>
+</a>
 <a href="https://dev.to/dalelantowork">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
@@ -31,13 +34,14 @@
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ```yaml
-name: Dale Nardeen Lanto 
+name: "Dale Nardeen Lanto" 
 
-description: "A seasoned software developer with over 7 years of experience in web development,"
-    "having successfully collaborated with 6 companies and delivered 25+ projects."
+description: "A seasoned web developer with over 7 years of experience in web development,"
+    "Proficient in API Development, Integration, Database Management and Testing."
 
-located_in: Manila, Philippines
-current_job: Full Stack Developer
+dev_insights: "Checkout my blogs in Hashnode & Dev.to"
+located_in: "Manila, Philippines"
+current_job: "Full Stack Developer"
 education: "Bachelor of Science in Computer Studies Major in Computer Science"
 
 technical_background:
